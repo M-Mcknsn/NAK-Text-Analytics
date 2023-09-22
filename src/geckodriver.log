@@ -1,0 +1,1516 @@
+1695376467115	geckodriver	INFO	Listening on 127.0.0.1:54713
+1695376470200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileY9PAVG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695376470661	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695376470811	Marionette	INFO	Listening on port 54724
+WebDriver BiDi listening on ws://127.0.0.1:54714
+Read port: 54724
+1695376471100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54714/devtools/browser/687c4627-7a9d-4d4f-8058-a727b898cf14
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695376656397	Marionette	INFO	Stopped listening on port 54724
+Dynamically enable window occlusion 1
+1695376659954	geckodriver	INFO	Listening on 127.0.0.1:54818
+1695376663027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilemVYhQc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695376663304	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695376663397	Marionette	INFO	Listening on port 54827
+WebDriver BiDi listening on ws://127.0.0.1:54819
+Read port: 54827
+1695376663598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54819/devtools/browser/77387365-c2bb-4a5c-ac2a-75358ba8387e
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695376755891	Marionette	INFO	Stopped listening on port 54827
+Dynamically enable window occlusion 1
+1695376777337	geckodriver	INFO	Listening on 127.0.0.1:54906
+1695376780398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileLxER9U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695376780671	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695376780766	Marionette	INFO	Listening on port 54916
+WebDriver BiDi listening on ws://127.0.0.1:54907
+Read port: 54916
+1695376780969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54907/devtools/browser/ef81feef-830f-47af-9185-939fc3077673
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695377229159	Marionette	INFO	Stopped listening on port 54916
+Dynamically enable window occlusion 1
+: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowJavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.syDevTools listening on ws://127.0.0.1:55222/devtools/browser/b6009edf-1065-4346-8bcc-c86a32e6b273
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695377261379	Marionette	INFO	Stopped listening on port 55230
+Dynamically enable window occlusion 1
+1695377264071	geckodriver	INFO	Listening on 127.0.0.1:55285
+1695377267139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilefHuQKy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695377267407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695377267498	Marionette	INFO	Listening on port 55294
+WebDriver BiDi listening on ws://127.0.0.1:55286
+Read port: 55294
+1695377267685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55286/devtools/browser/6218a222-e86d-4e26-8336-3aa093112518
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://cdn.privacy-mgmt.com/Notice.ac8ce.js, line 1: Script terminated by timeout at:
+o@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:12013
+a@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:12134
+Asb//t.a/<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:77153
+Asb//t.a@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:77070
+w@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:19136
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:16994
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+g@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13306
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1695377276393	Marionette	INFO	Stopped listening on port 55294
+Dynamically enable window occlusion 1
+1695377279309	geckodriver	INFO	Listening on 127.0.0.1:55367
+1695377282382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofiletzLsRz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695377282656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695377282750	Marionette	INFO	Listening on port 55376
+WebDriver BiDi listening on ws://127.0.0.1:55368
+Read port: 55376
+1695377282938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55368/devtools/browser/af730e32-57f4-4130-93b3-79ebb4a65b0e
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695379468273	Marionette	INFO	Stopped listening on port 55376
+Dynamically enable window occlusion 1
+: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695377649337	Marionette	INFO	Stopped listening on port 55484
+Dynamically enable window occlusion 1
+1695377659372	geckodriver	INFO	Listening on 127.0.0.1:55541
+1695377662437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileLphy2Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695377662707	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695377662801	Marionette	INFO	Listening on port 55551
+WebDriver BiDi listening on ws://127.0.0.1:55542
+Read port: 55551
+1695377663007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55542/devtools/browser/d4d7b280-f2c0-4b4e-8444-57c2317c473c
+1695377670127	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://cdn.privacy-mgmt.com/Notice.ac8ce.js, line 1: Script terminated by timeout at:
+u@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:108585
+at@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:120596
+GeSn/n.sanitize@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:126501
+KOA+/r<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:139880
+m@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:139672
+w@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:19136
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:16994
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+g@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13306
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tGcDLxZnxcZjneq6ZTfMhLSKmVRaNAcBIKHxIKG0fIc.js line 2 > eval line 1586 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695379468886	Marionette	INFO	Stopped listening on port 55551
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+led
+Dynamically enable window occlusion 0
+1695378365425	Marionette	INFO	Listening on port 55798
+WebDriver BiDi listening on ws://127.0.0.1:55790
+Read port: 55798
+1695378365631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55790/devtools/browser/aa738df2-5ead-4761-8821-6073ec70a820
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695379469529	Marionette	INFO	Stopped listening on port 55798
+Dynamically enable window occlusion 1
+: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695379469995	Marionette	INFO	Stopped listening on port 56015
+Dynamically enable window occlusion 1
+1695379481078	geckodriver	INFO	Listening on 127.0.0.1:56190
+1695379484137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilefpeYvm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695379484435	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695379484527	Marionette	INFO	Listening on port 56199
+WebDriver BiDi listening on ws://127.0.0.1:56191
+Read port: 56199
+1695379484712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56191/devtools/browser/20904b28-1825-4334-84b7-4f16eec650d2
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695379684964	Marionette	INFO	Stopped listening on port 56199
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695379568543	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695379568647	Marionette	INFO	Listening on port 56274
+WebDriver BiDi listening on ws://127.0.0.1:56264
+Read port: 56274
+1695379568845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56264/devtools/browser/7a3ec0ae-d856-4d75-9e38-3c1f393899cc
+1695379575531	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695379683491	Marionette	INFO	Stopped listening on port 56274
+Dynamically enable window occlusion 1
+1695379689947	geckodriver	INFO	Listening on 127.0.0.1:56349
+1695379693020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56350" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileV78WiA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695379693287	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695379693385	Marionette	INFO	Listening on port 56358
+WebDriver BiDi listening on ws://127.0.0.1:56350
+Read port: 56358
+1695379693574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56350/devtools/browser/f70ea2fa-738a-4d34-88a3-d372a5ff003d
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695379751349	Marionette	INFO	Stopped listening on port 56358
+Dynamically enable window occlusion 1
+1695379937858	geckodriver	INFO	Listening on 127.0.0.1:56467
+1695379940923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilesxpVmr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695379941189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695379941281	Marionette	INFO	Listening on port 56476
+WebDriver BiDi listening on ws://127.0.0.1:56468
+Read port: 56476
+1695379941473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56468/devtools/browser/c2e597ae-dc1d-40e8-b372-578857c5bca7
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695380145691	Marionette	INFO	Stopped listening on port 56476
+Dynamically enable window occlusion 1
+123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695380143892	Marionette	INFO	Stopped listening on port 56581
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695380141728	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695380141839	Marionette	INFO	Listening on port 56651
+WebDriver BiDi listening on ws://127.0.0.1:56643
+Read port: 56651
+1695380142029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56643/devtools/browser/86d4eb18-0c31-48a6-98a1-08934f04f958
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695380180380	Marionette	INFO	Stopped listening on port 56651
+Dynamically enable window occlusion 1
+1695380199967	geckodriver	INFO	Listening on 127.0.0.1:56714
+1695380203033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileIOwsm0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695380203304	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695380203400	Marionette	INFO	Listening on port 56723
+WebDriver BiDi listening on ws://127.0.0.1:56715
+Read port: 56723
+1695380203597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56715/devtools/browser/46c2ad32-8350-419e-91b6-33143f120e5f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695380967664	Marionette	INFO	Stopped listening on port 56723
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695380668875	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695380668971	Marionette	INFO	Listening on port 56881
+WebDriver BiDi listening on ws://127.0.0.1:56873
+Read port: 56881
+1695380669163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56873/devtools/browser/e39d7069-9d24-4ae3-abb9-ee592c707723
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695380965818	Marionette	INFO	Stopped listening on port 56881
+Dynamically enable window occlusion 1
+1695380972416	geckodriver	INFO	Listening on 127.0.0.1:56991
+1695380975480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56992" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileSEJC3H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695380975764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695380975866	Marionette	INFO	Listening on port 57001
+WebDriver BiDi listening on ws://127.0.0.1:56992
+Read port: 57001
+1695380976071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56992/devtools/browser/4d0894eb-0886-483b-a036-9615d5d6cba2
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695381074629	Marionette	INFO	Stopped listening on port 57001
+Dynamically enable window occlusion 1
+1695381076275	geckodriver	INFO	Listening on 127.0.0.1:57074
+1695381079333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileVDRvGd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695381079597	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695381079688	Marionette	INFO	Listening on port 57083
+WebDriver BiDi listening on ws://127.0.0.1:57075
+Read port: 57083
+1695381079876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57075/devtools/browser/eea324e0-a11d-4390-91e2-3fc4a4ee5ca2
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695381152174	Marionette	INFO	Stopped listening on port 57083
+Dynamically enable window occlusion 1
+1695381384549	geckodriver	INFO	Listening on 127.0.0.1:57194
+1695381387609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofile1UWPe8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695381387879	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695381387973	Marionette	INFO	Listening on port 57204
+WebDriver BiDi listening on ws://127.0.0.1:57195
+Read port: 57204
+1695381388165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57195/devtools/browser/fc55a54b-6ffa-4f43-a55d-ef0f74439664
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695382536907	Marionette	INFO	Stopped listening on port 57204
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695381788103	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695381788212	Marionette	INFO	Listening on port 57321
+WebDriver BiDi listening on ws://127.0.0.1:57313
+Read port: 57321
+1695381788437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57313/devtools/browser/f77e16d0-429e-4c34-93d7-795c19d2474c
+1695381795361	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695382539143	Marionette	INFO	Stopped listening on port 57321
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695382028693	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695382028789	Marionette	INFO	Listening on port 57425
+WebDriver BiDi listening on ws://127.0.0.1:57417
+Read port: 57425
+1695382028980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57417/devtools/browser/174fb7f8-e661-4c0d-84d0-13c4ad02238a
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695384680687	Marionette	INFO	Stopped listening on port 57425
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57626" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileRWkNyE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695382451393	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695382451488	Marionette	INFO	Listening on port 57634
+WebDriver BiDi listening on ws://127.0.0.1:57626
+Read port: 57634
+1695382451682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57626/devtools/browser/3863a30c-9a73-4c19-995e-83100c5a604c
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695384681323	Marionette	INFO	Stopped listening on port 57634
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilegHx8MC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695382537789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695382537884	Marionette	INFO	Listening on port 57715
+WebDriver BiDi listening on ws://127.0.0.1:57707
+Read port: 57715
+1695382538086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57707/devtools/browser/5a10491f-711d-463e-89df-755ca3bbc990
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695384681891	Marionette	INFO	Stopped listening on port 57715
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695382964242	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695382964336	Marionette	INFO	Listening on port 57874
+WebDriver BiDi listening on ws://127.0.0.1:57866
+Read port: 57874
+1695382964535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57866/devtools/browser/8d99d5af-c2aa-4f22-8afe-9bd848fae74c
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695384682395	Marionette	INFO	Stopped listening on port 57874
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695383222635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695383222733	Marionette	INFO	Listening on port 58024
+WebDriver BiDi listening on ws://127.0.0.1:58016
+Read port: 58024
+1695383222929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58016/devtools/browser/f72b4c24-1c38-48c5-a378-b32555b02919
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695384682885	Marionette	INFO	Stopped listening on port 58024
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695383647977	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695383648075	Marionette	INFO	Listening on port 58149
+WebDriver BiDi listening on ws://127.0.0.1:58140
+Read port: 58149
+1695383648260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58140/devtools/browser/715e3938-0c0d-4104-9121-10c02554e217
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695384683381	Marionette	INFO	Stopped listening on port 58149
+Dynamically enable window occlusion 1
+1695384896061	geckodriver	INFO	Listening on 127.0.0.1:58397
+1695384899124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileR1Uqzf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695384899443	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695384899536	Marionette	INFO	Listening on port 58408
+WebDriver BiDi listening on ws://127.0.0.1:58398
+Read port: 58408
+1695384899724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58398/devtools/browser/77c797d8-b3ba-4342-af70-dde81faa3d24
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695387829805	Marionette	INFO	Stopped listening on port 58408
+Dynamically enable window occlusion 1
+95387828983	Marionette	INFO	Stopped listening on port 58575
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileJFLuoC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695385590076	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695385590168	Marionette	INFO	Listening on port 58677
+WebDriver BiDi listening on ws://127.0.0.1:58669
+Read port: 58677
+1695385590355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58669/devtools/browser/603b9abb-90a0-4801-968b-df395c829a06
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695387832335	Marionette	INFO	Stopped listening on port 58677
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58794" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileo9wDPl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695385781503	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695385781597	Marionette	INFO	Listening on port 58802
+WebDriver BiDi listening on ws://127.0.0.1:58794
+Read port: 58802
+1695385781791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58794/devtools/browser/713dc3ef-0a83-42ac-8dc3-4ed313a2973f
+1695385788976	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+I@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123109
+H@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123250
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123925
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695387831825	Marionette	INFO	Stopped listening on port 58802
+Dynamically enable window occlusion 1
+O	Listening on port 58920
+WebDriver BiDi listening on ws://127.0.0.1:58912
+Read port: 58920
+1695385905543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58912/devtools/browser/4727a5f4-1873-4eaa-9178-ec6c6d2d74a9
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695387831148	Marionette	INFO	Stopped listening on port 58920
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695386123796	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695386123897	Marionette	INFO	Listening on port 59031
+WebDriver BiDi listening on ws://127.0.0.1:59023
+Read port: 59031
+1695386124096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59023/devtools/browser/c3169519-adb8-455e-8826-a7dcec49f1f9
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695388406783	Marionette	INFO	Stopped listening on port 59031
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695386185459	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695386185558	Marionette	INFO	Listening on port 59103
+WebDriver BiDi listening on ws://127.0.0.1:59093
+Read port: 59103
+1695386185750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59093/devtools/browser/e73a9591-069e-415b-8af3-e0552993701c
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695388405542	Marionette	INFO	Stopped listening on port 59103
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileqF3Mf9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695386246491	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695386246587	Marionette	INFO	Listening on port 59179
+WebDriver BiDi listening on ws://127.0.0.1:59170
+Read port: 59179
+1695386246777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59170/devtools/browser/eb8ad1fe-7d0e-43ef-893d-19ecd559c053
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695388398383	Marionette	INFO	Stopped listening on port 59179
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileFxiNGX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695386359156	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695386359254	Marionette	INFO	Listening on port 59281
+WebDriver BiDi listening on ws://127.0.0.1:59273
+Read port: 59281
+1695386359452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59273/devtools/browser/d77dee4a-2350-481b-9200-c87021bee78d
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695387834019	Marionette	INFO	Stopped listening on port 59281
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59490" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileSw8o1v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695386910054	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695386910157	Marionette	INFO	Listening on port 59499
+WebDriver BiDi listening on ws://127.0.0.1:59490
+Read port: 59499
+1695386910296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59490/devtools/browser/cd49a471-c1da-4e46-8670-37ec37371c58
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695388399317	Marionette	INFO	Stopped listening on port 59499
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileLcKGWL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695387161973	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695387162081	Marionette	INFO	Listening on port 59641
+WebDriver BiDi listening on ws://127.0.0.1:59632
+Read port: 59641
+1695387162235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59632/devtools/browser/4431d425-6aba-4db3-900a-6e9cc83befa5
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695388400127	Marionette	INFO	Stopped listening on port 59641
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695387309410	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695387309523	Marionette	INFO	Listening on port 59793
+WebDriver BiDi listening on ws://127.0.0.1:59785
+Read port: 59793
+1695387309739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59785/devtools/browser/effbb41f-e398-463d-ac2d-ee289cec9c66
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695388401124	Marionette	INFO	Stopped listening on port 59793
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695387641211	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695387641315	Marionette	INFO	Listening on port 60002
+WebDriver BiDi listening on ws://127.0.0.1:59994
+Read port: 60002
+1695387641501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59994/devtools/browser/83faf5db-4089-4b7d-b2e7-76c151e2c258
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695388436773	Marionette	INFO	Stopped listening on port 60002
+Dynamically enable window occlusion 1
+: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695388402521	Marionette	INFO	Stopped listening on port 60083
+Dynamically enable window occlusion 1
+199/devtools/browser/0c21bf14-f28f-4f4e-8fb1-670fbea4f858
+1695387832275	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695388403351	Marionette	INFO	Stopped listening on port 60208
+Dynamically enable window occlusion 1
+337/devtools/browser/75f63a14-3be1-4dea-b36c-bc2af2d42534
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 49: Script terminated by timeout at:
+R@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:49:1842
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124159
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695388404048	Marionette	INFO	Stopped listening on port 60345
+Dynamically enable window occlusion 1
+1695388732888	geckodriver	INFO	Listening on 127.0.0.1:60621
+1695388735954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60622" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileCFQwL6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695388736238	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695388736333	Marionette	INFO	Listening on port 60637
+WebDriver BiDi listening on ws://127.0.0.1:60622
+Read port: 60637
+1695388736556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60622/devtools/browser/0fcf740e-49f6-450f-8850-7f4d188dbe1b
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695389423357	Marionette	INFO	Stopped listening on port 60637
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695389114883	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695389114976	Marionette	INFO	Listening on port 60744
+WebDriver BiDi listening on ws://127.0.0.1:60737
+Read port: 60744
+1695389115164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60737/devtools/browser/ac214054-f294-4de3-9f96-edd5fbe65e7c
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695389544069	geckodriver	INFO	Listening on 127.0.0.1:61048
+1695389547144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilel9f1Qh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695389547460	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695389547567	Marionette	INFO	Listening on port 61056
+WebDriver BiDi listening on ws://127.0.0.1:61049
+Read port: 61056
+1695389547750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61049/devtools/browser/ca7a4cfe-afcd-4e2c-9d2c-08080d0cff97
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695389640405	Marionette	INFO	Stopped listening on port 61056
+Dynamically enable window occlusion 1
+1695389854503	geckodriver	INFO	Listening on 127.0.0.1:61225
+1695389857545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61226" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileFDy1VW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695389857835	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695389857934	Marionette	INFO	Listening on port 61233
+WebDriver BiDi listening on ws://127.0.0.1:61226
+Read port: 61233
+1695389858128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61226/devtools/browser/7dbdee24-3982-411e-9037-c2576975653c
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695389880585	Marionette	INFO	Stopped listening on port 61233
+Dynamically enable window occlusion 1
+1695390362919	geckodriver	INFO	Listening on 127.0.0.1:61384
+1695390365969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilezb5Dgg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695390366242	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695390366337	Marionette	INFO	Listening on port 61392
+WebDriver BiDi listening on ws://127.0.0.1:61385
+Read port: 61392
+1695390366529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61385/devtools/browser/64471b3c-f3bd-416c-b2c3-99e60dc29a37
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695390491219	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695390958560	Marionette	INFO	Stopped listening on port 61392
+Dynamically enable window occlusion 1
+1695391035809	geckodriver	INFO	Listening on 127.0.0.1:61690
+1695391038885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileBSI3c5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695391039155	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695391039248	Marionette	INFO	Listening on port 61698
+WebDriver BiDi listening on ws://127.0.0.1:61691
+Read port: 61698
+1695391039434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61691/devtools/browser/4afb7eb6-069a-4b2b-a7be-0ea11b73f392
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
