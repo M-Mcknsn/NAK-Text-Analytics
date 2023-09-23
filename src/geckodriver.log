@@ -5790,3 +5790,631 @@ r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
 
 1695487968537	Marionette	INFO	Stopped listening on port 62803
 Dynamically enable window occlusion 1
+1695488302472	geckodriver	INFO	Listening on 127.0.0.1:63001
+1695488305527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilee2pvsq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695488305822	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695488305933	Marionette	INFO	Listening on port 63014
+WebDriver BiDi listening on ws://127.0.0.1:63002
+Read port: 63014
+1695488306144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63002/devtools/browser/b79bd9ac-90e0-465a-a597-2c033b128d9b
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695489247535	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695489786761	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1695489786762	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js, line 25: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119918
+
+1695490269054	Marionette	INFO	Stopped listening on port 63014
+Dynamically enable window occlusion 1
+1695490275660	geckodriver	INFO	Listening on 127.0.0.1:64515
+1695490278696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileAXrtut"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695490279017	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695490279131	Marionette	INFO	Listening on port 64525
+WebDriver BiDi listening on ws://127.0.0.1:64516
+Read port: 64525
+1695490279364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64516/devtools/browser/eaa6106b-e9fd-49f8-80ed-d3a024f96567
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695490357486	Marionette	INFO	Stopped listening on port 64525
+Dynamically enable window occlusion 1
