@@ -2489,3 +2489,456 @@ JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60
 86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
 r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
 
+1695466249260	geckodriver	INFO	Listening on 127.0.0.1:50413
+1695466252341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50414" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofile4EErxB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695466252657	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695466252771	Marionette	INFO	Listening on port 50423
+WebDriver BiDi listening on ws://127.0.0.1:50414
+Read port: 50423
+1695466252942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50414/devtools/browser/2e0b9c18-2f6d-4e4a-b9e2-963f91427dd2
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695467026627	Marionette	INFO	Stopped listening on port 50423
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695466288630	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695466288721	Marionette	INFO	Listening on port 50500
+WebDriver BiDi listening on ws://127.0.0.1:50490
+Read port: 50500
+1695466288911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50490/devtools/browser/51d65043-f2cf-45af-a8d5-af1e19b4e5df
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695467027261	Marionette	INFO	Stopped listening on port 50500
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695466322180	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695466322280	Marionette	INFO	Listening on port 50577
+WebDriver BiDi listening on ws://127.0.0.1:50568
+Read port: 50577
+1695466322484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50568/devtools/browser/5de81343-bfb1-43ca-91fb-f18cd2f06f16
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695466331501	Marionette	INFO	Stopped listening on port 50577
+Dynamically enable window occlusion 1
+1695466345148	geckodriver	INFO	Listening on 127.0.0.1:50648
+1695466348198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileDCyJrB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695466348475	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695466348571	Marionette	INFO	Listening on port 50657
+WebDriver BiDi listening on ws://127.0.0.1:50649
+Read port: 50657
+1695466348770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50649/devtools/browser/5215686a-7728-4023-bcb3-ee2f0fbf5c6d
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695466364748	Marionette	INFO	Stopped listening on port 50657
+Dynamically enable window occlusion 1
+1695466509369	geckodriver	INFO	Listening on 127.0.0.1:50753
+1695466512401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileGAA1zK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695466512682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695466512778	Marionette	INFO	Listening on port 50762
+WebDriver BiDi listening on ws://127.0.0.1:50754
+Read port: 50762
+1695466512968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50754/devtools/browser/669a8560-6461-450b-a055-3e1822becfcc
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695467027815	Marionette	INFO	Stopped listening on port 50762
+Dynamically enable window occlusion 1
+TE_SETTINGS_DEVTOOLS=1 in the environment
+1695466550329	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695466550423	Marionette	INFO	Listening on port 50838
+WebDriver BiDi listening on ws://127.0.0.1:50830
+Read port: 50838
+1695466550631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50830/devtools/browser/14d4449f-f089-47ac-a1c1-d1ceedaf605f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695466557941	Marionette	INFO	Stopped listening on port 50838
+Dynamically enable window occlusion 1
+1695466829354	geckodriver	INFO	Listening on 127.0.0.1:50930
+1695466832414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileuFcyD6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695466832682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695466832774	Marionette	INFO	Listening on port 50939
+WebDriver BiDi listening on ws://127.0.0.1:50931
+Read port: 50939
+1695466832971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50931/devtools/browser/e0fb4c5c-fbcb-4abc-a7d1-12eeedd428fe
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695466851279	Marionette	INFO	Stopped listening on port 50939
+Dynamically enable window occlusion 1
+1695466900981	geckodriver	INFO	Listening on 127.0.0.1:51009
+1695466904023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51010" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilel1LHcV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695466904289	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695466904380	Marionette	INFO	Listening on port 51018
+WebDriver BiDi listening on ws://127.0.0.1:51010
+Read port: 51018
+1695466904572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51010/devtools/browser/f906e1e0-0309-4744-b689-7a8e683c4430
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695466912389	Marionette	INFO	Stopped listening on port 51018
+Dynamically enable window occlusion 1
+1695466929882	geckodriver	INFO	Listening on 127.0.0.1:51081
+1695466932924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileZVPCT9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695466933196	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695466933291	Marionette	INFO	Listening on port 51090
+WebDriver BiDi listening on ws://127.0.0.1:51082
+Read port: 51090
+1695466933488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51082/devtools/browser/c3f044c9-e26a-46c1-89d8-3810fd9f7df3
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695466942438	Marionette	INFO	Stopped listening on port 51090
+Dynamically enable window occlusion 1
+1695466981679	geckodriver	INFO	Listening on 127.0.0.1:51150
+1695466990913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileBeNvef"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695466991207	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695466991302	Marionette	INFO	Listening on port 51164
+WebDriver BiDi listening on ws://127.0.0.1:51151
+Read port: 51164
+1695466991498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51151/devtools/browser/8d0157ce-c72d-43ab-831d-836967873056
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695467004955	Marionette	INFO	Stopped listening on port 51164
+Dynamically enable window occlusion 1
+1695467018976	geckodriver	INFO	Listening on 127.0.0.1:51231
+1695467022024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51232" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofile43vNOJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467022291	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467022386	Marionette	INFO	Listening on port 51240
+WebDriver BiDi listening on ws://127.0.0.1:51232
+Read port: 51240
+1695467022575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51232/devtools/browser/6a4a3a5b-8e03-4e4c-9df4-69ee8eb38382
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695467029664	Marionette	INFO	Stopped listening on port 51240
+Dynamically enable window occlusion 1
+1695467041680	geckodriver	INFO	Listening on 127.0.0.1:51309
+1695467048832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51310" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofile0cz2EV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467049100	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467049192	Marionette	INFO	Listening on port 51321
+WebDriver BiDi listening on ws://127.0.0.1:51310
+Read port: 51321
+1695467049381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51310/devtools/browser/de37d26a-619a-475a-b132-d629b9e50317
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695467061835	Marionette	INFO	Stopped listening on port 51321
+Dynamically enable window occlusion 1
+1695467210531	geckodriver	INFO	Listening on 127.0.0.1:51418
+1695467213578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilexxmZ87"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467213854	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467213946	Marionette	INFO	Listening on port 51427
+WebDriver BiDi listening on ws://127.0.0.1:51419
+Read port: 51427
+1695467214144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51419/devtools/browser/7cd15c79-b68f-46fa-98a9-8810403d7819
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695467223299	Marionette	INFO	Stopped listening on port 51427
+Dynamically enable window occlusion 1
+1695467253197	geckodriver	INFO	Listening on 127.0.0.1:51499
+1695467256235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51500" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofile0lexaX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467256514	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467256608	Marionette	INFO	Listening on port 51508
+WebDriver BiDi listening on ws://127.0.0.1:51500
+Read port: 51508
+1695467256798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51500/devtools/browser/01d8806b-079f-41af-b8bb-63173cf16504
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695467261395	Marionette	INFO	Stopped listening on port 51508
+Dynamically enable window occlusion 1
+1695467281154	geckodriver	INFO	Listening on 127.0.0.1:51559
+1695467288273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileuuiM9B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467288540	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467288630	Marionette	INFO	Listening on port 51572
+WebDriver BiDi listening on ws://127.0.0.1:51560
+Read port: 51572
+1695467288828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51560/devtools/browser/2e12d992-1edd-44d2-8b7c-33d0d4835d2e
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695467302376	Marionette	INFO	Stopped listening on port 51572
+Dynamically enable window occlusion 1
+1695467358585	geckodriver	INFO	Listening on 127.0.0.1:51643
+1695467361631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileb5eMuS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467361904	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467362000	Marionette	INFO	Listening on port 51653
+WebDriver BiDi listening on ws://127.0.0.1:51644
+Read port: 51653
+1695467362196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51644/devtools/browser/b73b492a-bcb8-409d-b3aa-6cc58b1c3fd5
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695467370354	Marionette	INFO	Stopped listening on port 51653
+Dynamically enable window occlusion 1
+1695467391921	geckodriver	INFO	Listening on 127.0.0.1:51735
+1695467394956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileg6Cati"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467395223	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467395320	Marionette	INFO	Listening on port 51744
+WebDriver BiDi listening on ws://127.0.0.1:51736
+Read port: 51744
+1695467395513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51736/devtools/browser/96981d0b-766b-4a6e-ae17-2fb980e8ff45
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695467402133	Marionette	INFO	Stopped listening on port 51744
+JavaScript warning: https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js, line 34: Script terminated by timeout at:
+XG@https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js:34:6370
+v/</</<@https://www.onvista.de/_next/static/chunks/2467.f31a5d9c0ade5100.js:1:574
+
+Dynamically enable window occlusion 1
+1695467447994	geckodriver	INFO	Listening on 127.0.0.1:51807
+1695467459212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51808" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileThn68M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467459498	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467459589	Marionette	INFO	Listening on port 51821
+WebDriver BiDi listening on ws://127.0.0.1:51808
+Read port: 51821
+1695467459782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51808/devtools/browser/0e50f2b6-660b-41c9-8df7-7f57e21d3573
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695467473348	Marionette	INFO	Stopped listening on port 51821
+Dynamically enable window occlusion 1
+1695467746067	geckodriver	INFO	Listening on 127.0.0.1:51943
+1695467749142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofile2GHsfa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467749412	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467749504	Marionette	INFO	Listening on port 51952
+WebDriver BiDi listening on ws://127.0.0.1:51944
+Read port: 51952
+1695467749690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51944/devtools/browser/60a513f0-d598-4f2f-87f0-47c1c9e06edf
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695467766521	Marionette	INFO	Stopped listening on port 51952
+Dynamically enable window occlusion 1
+1695467826260	geckodriver	INFO	Listening on 127.0.0.1:52028
+1695467833394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilejxWsln"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467833660	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467833751	Marionette	INFO	Listening on port 52040
+WebDriver BiDi listening on ws://127.0.0.1:52029
+Read port: 52040
+1695467833940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52029/devtools/browser/3e21c05a-53cd-4274-9cfe-eed7ff30b9f7
+1695467840631	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695467843577	Marionette	INFO	Stopped listening on port 52040
+Dynamically enable window occlusion 1
+1695467887914	geckodriver	INFO	Listening on 127.0.0.1:52106
+1695467890952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilefiFxIS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695467891228	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695467891327	Marionette	INFO	Listening on port 52116
+WebDriver BiDi listening on ws://127.0.0.1:52107
+Read port: 52116
+1695467891526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52107/devtools/browser/45fab1cb-605e-4a0c-aec8-857f28486547
+1695467898376	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695467898684	Marionette	INFO	Stopped listening on port 52116
+Dynamically enable window occlusion 1
+1695468028512	geckodriver	INFO	Listening on 127.0.0.1:52201
+1695468031573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileA4qPT6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695468031837	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695468031925	Marionette	INFO	Listening on port 52210
+WebDriver BiDi listening on ws://127.0.0.1:52202
+Read port: 52210
+1695468032121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52202/devtools/browser/8a31f99a-4bb4-4a4c-af47-ab260f5bcf50
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695468048472	Marionette	INFO	Stopped listening on port 52210
+Dynamically enable window occlusion 1
+1695468140452	geckodriver	INFO	Listening on 127.0.0.1:52285
+1695468143509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofile1uh8KE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695468143789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695468143882	Marionette	INFO	Listening on port 52294
+WebDriver BiDi listening on ws://127.0.0.1:52286
+Read port: 52294
+1695468144092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52286/devtools/browser/04fd1392-ea3b-4414-a3cf-5a321bad0e87
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695468151038	Marionette	INFO	Stopped listening on port 52294
+JavaScript warning: https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js, line 34: Script terminated by timeout at:
+getDimensions@https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js:34:237834
+3558/er/</</<@https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js:34:239946
+
+Dynamically enable window occlusion 1
+1695468196374	geckodriver	INFO	Listening on 127.0.0.1:52365
+1695468199430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52366" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileW0zZcq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695468199695	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695468199784	Marionette	INFO	Listening on port 52374
+WebDriver BiDi listening on ws://127.0.0.1:52366
+Read port: 52374
+1695468199969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52366/devtools/browser/58a865e9-3572-423d-ba1d-808c93003182
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120069
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
