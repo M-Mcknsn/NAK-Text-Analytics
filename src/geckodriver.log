@@ -19362,3 +19362,171 @@ r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
 
 1695546371265	Marionette	INFO	Stopped listening on port 54383
 Dynamically enable window occlusion 1
+1695552365863	geckodriver	INFO	Listening on 127.0.0.1:55196
+1695552368892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofileqsL9kz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695552369170	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695552369262	Marionette	INFO	Listening on port 55209
+WebDriver BiDi listening on ws://127.0.0.1:55197
+Read port: 55209
+1695552369457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55197/devtools/browser/65a758ba-e832-4d19-8b7a-fdeec08d51b2
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js, line 10: Script terminated by timeout at:
+i@https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js:10:62
+c@https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js:34:71272
+lb@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:60869
+od@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:72751
+i@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:120306
+uI@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:99059
+52967/uM/<@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:98927
+uM@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:98932
+uS@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:93971
+x@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:49:1365
+R@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:49:1894
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+o@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:123689
+86590/q/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:124160
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+1695552501374	Marionette	INFO	Stopped listening on port 55209
+Dynamically enable window occlusion 1
+1695552560213	geckodriver	INFO	Listening on 127.0.0.1:55406
+1695552563289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofile6NFEqR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695552563583	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695552563681	Marionette	INFO	Listening on port 55415
+WebDriver BiDi listening on ws://127.0.0.1:55407
+Read port: 55415
+1695552563880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55407/devtools/browser/96cdf6ee-ea20-4cfa-bc67-f5ed6937cd47
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js, line 41: Script terminated by timeout at:
+r@https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js:41:5320
+64157/X/<@https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js:41:6780
+64157/a</</f/B<@https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js:41:8815
+lq@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:65242
+83426/t.useMemo@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:41:5986
+f@https://www.onvista.de/_next/static/chunks/pages/_app-f033062169afe494.js:41:8761
+lb@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:60869
+od@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:72751
+os@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:71957
+i@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:122791
+uI@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:99059
+52967/uM/<@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:98927
+uM@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:98932
+uS@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:93971
+x@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:49:1365
+R@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:49:1894
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+86590/_/<@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:120481
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119977
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js, line 1: Script terminated by timeout at:
+r@https://www.onvista.de/_next/static/chunks/main-3fc87926ef60dedb.js:1:119918
+
+JavaScript warning: https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js, line 1: Script terminated by timeout at:
+75861/r/</t.prototype.getGroupIntervalFactor@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:381281
+n@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:309835
+75861/r/</i/<@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:307874
+i@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:307750
+75861/r/</x/<@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:4329
+x@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:4299
+75861/r/</t.prototype.setTickInterval@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:96819
+75861/r/</t.prototype.setScale@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:102135
+75861/r/</t.prototype.redraw/<@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:184864
+75861/r/</t.prototype.redraw@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:184826
+75861/r/</t.prototype.setSize@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:191875
+75861/r/</t.prototype.update@https://www.onvista.de/_next/static/chunks/88d5c5ca-738b00ddee1dd634.js:1:202760
+64402/e.exports</c</<@https://www.onvista.de/_next/static/chunks/7369-2987e2d30c315334.js:1:3707
+oO@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:84076
+oY@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:90456
+e@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:111068
+52967/uO/<@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:111079
+uO@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:111591
+u_@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:96220
+r4@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:44769
+52967/uO/<@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:111585
+uO@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:111591
+uS@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:25:94963
+x@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:49:1365
+R@https://www.onvista.de/_next/static/chunks/framework-bd8ad283da876aa4.js:49:1894
+
+1695552726442	Marionette	INFO	Stopped listening on port 55415
+Dynamically enable window occlusion 1
+1695552733372	geckodriver	INFO	Listening on 127.0.0.1:55623
+1695552736392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55624" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marin\\AppData\\Local\\Temp\\rust_mozprofilewUiqmv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695552736662	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695552736756	Marionette	INFO	Listening on port 55633
+WebDriver BiDi listening on ws://127.0.0.1:55624
+Read port: 55633
+1695552736943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55624/devtools/browser/8ddc6549-74ea-4b29-85b7-f2a9d12a9c1b
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
