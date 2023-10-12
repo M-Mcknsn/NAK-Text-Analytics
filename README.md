@@ -5,7 +5,7 @@ Daily information and news related to companies are constantly published online,
 2. Data cleaning to improve data quality for analysis:     ```src/data_cleaning.ipynb```
 3. Topic Modeling to assign content themes and enhance the analysis:     ```src/topic_modeling.ipynb```
 4. Sentiment determination within the extracted texts:     ```src/sentiment_analysis.ipynb```
-5. Comparing sentiments with stock prices to identify possible correlations:     ```src/correlation_analysis.ipynb```
+5. Comparing sentiments with stock prices to identify possible correlations or relationships:     ```src/relationship_analysis.ipynb```
     
 
 
